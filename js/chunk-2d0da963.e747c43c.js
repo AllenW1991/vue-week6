@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0da963"],{"6bde":function(n,e,c){"use strict";c.r(e);var t=c("7a23");function d(n,e){return Object(t["s"])(),Object(t["e"])("h2",null,"後臺優惠券")}var r=c("6b0d"),u=c.n(r);const a={},o=u()(a,[["render",d]]);e["default"]=o}}]);
+//# sourceMappingURL=chunk-2d0da963.e747c43c.js.map
